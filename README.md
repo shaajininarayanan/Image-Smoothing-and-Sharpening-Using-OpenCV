@@ -321,48 +321,56 @@ else:
 
 - The input image is read and displayed.
 
-**Output Screenshot:** Add the Original Image output screenshot here.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/6c4cb68e-2697-4fcc-a277-18a86755bcaa" />
+
 
 ### Averaging Filter
 
 - The averaging filter produces a blurred image by averaging neighboring pixels.
 
-**Output Screenshot:** Add the Averaging Filter output screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0990636-e9d6-47c4-9b29-e138bdb69351" />
+
 
 ### Weighted Averaging Filter
 
 - The weighted averaging filter smooths the image using a weighted kernel.
 
-**Output Screenshot:** Add the Weighted Averaging Filter output screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64baa4df-b21c-49c4-b845-06605cca6c34" />
+
 
 ### Gaussian Filter
 
 - The Gaussian filter reduces image noise using Gaussian-weighted smoothing.
 
-**Output Screenshot:** Add the Gaussian Filter output screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a989514-e15b-469a-88ea-51528130a107" />
+
 
 ### Median Filter
 
 - The median filter reduces impulse noise while preserving edges better than simple averaging in many cases.
 
-**Output Screenshot:** Add the Median Filter output screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e61982bc-05cb-4ee5-a0fd-f94ad49abf60" />
 
 ### Laplacian Sharpening Using Kernel
 
 - The sharpening kernel enhances edges and fine details in the image.
 
-**Output Screenshot:** Add the Laplacian Sharpening output screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/726d96c5-de12-494a-8099-b55a94091fde" />
+
 
 ### Laplacian Operator
 
 - The Laplacian operator highlights regions of rapid intensity change in the grayscale image.
 
-**Output Screenshot:** Add the Laplacian Operator output screenshot here.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cdbd358f-3ad6-4b9a-8239-058b4cf9981a" />
+
 
 ---
 
 ## Result
+Thus, smoothing filters and sharpening filters are successfully implemented using OpenCV.
 
+The smoothing filters reduce noise and smooth image details, while sharpening filters enhance edges and fine details for image enhancement and computer vision applications.
 Thus, smoothing filters and sharpening filters are successfully implemented using OpenCV.
 
 The smoothing filters reduce noise and smooth image details, while sharpening filters enhance edges and fine details for image enhancement and computer vision applications.
